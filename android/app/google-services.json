@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "28545916132",
+    "project_id": "fir-online-delivery-app",
+    "storage_bucket": "fir-online-delivery-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28545916132:android:5f67e482c9139d0b1720f1",
+        "android_client_info": {
+          "package_name": "com.example.online_food_delivery_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28545916132-r4nee81ds2f0dc3o2jbi5bpe0iebrprj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBebxmyOU1zEAI9hBJLnYjn2yx-0fA5_gM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "28545916132-r4nee81ds2f0dc3o2jbi5bpe0iebrprj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
