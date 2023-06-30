@@ -6,7 +6,7 @@ The flutter apps for Online food delivery
 Name:
 1. Muhammad Amer Syafiq Bin Sanusi     1916519
 2. Nur Airin Faqihah Binti Ruzaidi     2011976
-3.
+3. Nur Sarah Sajidah Binti Mohd Hasri  1911474
 
 Summary:
 
